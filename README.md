@@ -3,7 +3,7 @@
 Open linux terminal:
 
 ```bash
-cd documents/cube/
+cd git/cube/
 rm -r venv
 python3 -m venv venv
 source venv/bin/activate
